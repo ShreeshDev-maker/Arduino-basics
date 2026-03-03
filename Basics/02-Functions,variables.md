@@ -1,3 +1,5 @@
+This will be an explanation to some basic prerequisites for upcoming programs
+
 VARIABLES ----------
 
 
