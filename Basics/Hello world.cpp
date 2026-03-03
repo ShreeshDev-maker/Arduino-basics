@@ -4,7 +4,7 @@
 //This will be the main code
 // btw these are called comments, they help in reading the code and tell information about that piece of code, 
 
-void setup(){   //The code in setup runs only once, when the arduino "wakes up once"
+void setup(){   //The code in setup runs only once, when the arduino wakes up once
   
 Serial.begin(9600); /*  This is is a function in the serial library to intialize serial communication with the computer
                       9600 represents the baud rate , essentially the speed of data transfer from arduino to the computer */
