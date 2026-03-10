@@ -11,3 +11,6 @@ void loop() {
 }
 //Congrats on your second ever program!
 // btw you do not need anything extra for this , on most arduinos there is an inbult LED which will blink in this code
+//you learnt pinMode and digitalwrite functions 
+//More info can be found at off arduino docs but you dont't need that for now
+// As always write the code yourself, no ctrl+c and ctrl+v (different for mac) and don't forget to put "  ;  " at the end of each line!
