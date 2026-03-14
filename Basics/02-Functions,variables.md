@@ -26,11 +26,11 @@ Arduino programs always have two main functions:
 
 void setup() {
   // runs once
-}
+}      
 
 void loop() {
   // runs again and again
-}
+}       
 🔹 setup()
 
 Runs once when the board starts.
@@ -47,7 +47,7 @@ Example:
 
 void setup() {
   pinMode(13, OUTPUT);
-}
+}        
 🔹 loop()
 
 Runs repeatedly forever.
