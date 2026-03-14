@@ -26,13 +26,14 @@ Arduino programs always have two main functions:
 
 void setup() {
   // runs once
-}      
+}  
 
 void loop() {
   // runs again and again
 }       
       
 🔹 setup()
+
 
 Runs once when the board starts.
 
