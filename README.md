@@ -15,4 +15,4 @@ The only prerequisites are-
 What is arduino?   
 Setting up the Arduino IDE   
 Breadboarding and series and parallel circuits   
-
+Digital and analog circuits
