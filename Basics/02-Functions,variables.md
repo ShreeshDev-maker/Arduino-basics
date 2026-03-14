@@ -31,6 +31,7 @@ void setup() {
 void loop() {
   // runs again and again
 }       
+      
 🔹 setup()
 
 Runs once when the board starts.
@@ -47,7 +48,8 @@ Example:
 
 void setup() {
   pinMode(13, OUTPUT);
-}        
+}     
+       
 🔹 loop()
 
 Runs repeatedly forever.
